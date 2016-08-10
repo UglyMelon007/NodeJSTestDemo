@@ -1,4 +1,4 @@
-var add = require('../../DemoOne/add.js');
+var add = require('../DemoOne/add.js');
 var expect = require('chai').expect;
 
 describe('加法测试', function() {

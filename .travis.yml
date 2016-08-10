@@ -1,8 +1,6 @@
 env:  
     global:
         - CODECOV_TOKEN: 7e5dc99b-a34f-4cd5-b5b7-196683d7cb05
-install:
-    - npm install -g codecov
 script:
  - istanbul cover node_modules/mocha/bin/_mocha
  - codecov

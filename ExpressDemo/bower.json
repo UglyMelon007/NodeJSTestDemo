@@ -1,0 +1,24 @@
+{
+  "name": "ExpressDemo",
+  "description": "Express Bootstrap jade",
+  "main": "",
+  "authors": [
+    "UglyMelon007 <UglyMelon007@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Express",
+    "Demo",
+    "Bootstrap",
+    "jade"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
